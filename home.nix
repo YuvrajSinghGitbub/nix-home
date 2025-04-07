@@ -52,6 +52,7 @@
     # ".screenrc".source = dotfiles/screenrc;
     
     ".config/nvim".source = dotfiles/nvim;
+    ".config/tmux".source = dotfiles/tmux;
 
     # # You can also set the file content immediately.
     # ".gradle/gradle.properties".text = ''
