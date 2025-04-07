@@ -39,6 +39,7 @@
     pkgs.zoxide
     pkgs.bat
     pkgs.eza
+    pkgs.github-cli
     pkgs.zig
     pkgs.go
   ];
