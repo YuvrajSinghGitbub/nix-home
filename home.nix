@@ -53,6 +53,7 @@
     
     ".config/nvim".source = dotfiles/nvim;
     ".config/tmux".source = dotfiles/tmux;
+    ".config/ghostty".source = dotfiles/ghostty;
 
     # # You can also set the file content immediately.
     # ".gradle/gradle.properties".text = ''
