@@ -44,5 +44,5 @@
 command = /usr/bin/fish --login --interactive
 font-family = FiraCode Nerd Font
 window-decoration = none
-theme = Abernathy
+theme = rose-pine
 maximize = true
