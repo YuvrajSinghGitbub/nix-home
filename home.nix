@@ -40,6 +40,7 @@
     pkgs.bat
     pkgs.eza
     pkgs.github-cli
+    pkgs.lsd
     pkgs.zig
     pkgs.go
   ];
